@@ -1,0 +1,1 @@
+(App.class.getResource("./logo.png")); 
